@@ -26,7 +26,7 @@
 #import "TextView_ApplicationViewController.h"
 
 //enum for each functionality
-
+//enum for each functionality
 //enum for each functionality
 typedef enum
 {
